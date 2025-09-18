@@ -7,7 +7,7 @@
 - give learning algo examples that learn from right answers based on labels.
 - it's by seeing correct input x and output y.
 
-- [Lab 1: Python Jupyter](./Lab01_Python_Jupyter_Soln.ipynb)
+- [Lab 1: Python Jupyter](./Lab01_Python_Jupyter_Soln.html)
 - [Practice Quiz](quiz1.html)
 
 ### 1. Regression
@@ -17,8 +17,8 @@
 Univariate linear regression is one input feature linear regression.
 If there are more than on3 features
 
-- [Lab 2: Model Representation](./Lab02_Model_Representation_Soln.ipynb)
-- [Lab 3: Cost Function](./Lab03_Cost_Function_Soln.ipynb)
+- [Lab 2: Model Representation](./Lab02_Model_Representation_Soln.html)
+- [Lab 3: Cost Function](./Lab03_Cost_function_Soln.html)
 - [Practice Quiz: Regression](quiz2.html)
 
 #### Gradient descent
@@ -27,7 +27,7 @@ On each step update the parameter by calculating slope. Learnings rate is the ra
 
 Gradient Descent depends on Learning rate. If learning rate is too large, it may overshoot local minima and if it's too small, it may slowly converge to the minima.
 
-- [Lab 4 Gradient Descent](./Lab04_Gradient_Descent_Soln.ipynb)
+- [Lab 4 Gradient Descent](./Lab04_Gradient_Descent_Soln.html)
 - [Practice Quiz: Train the model with gradient descent](quiz3.html)
 
 
